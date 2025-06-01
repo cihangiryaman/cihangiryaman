@@ -7,7 +7,7 @@
 
 ## 🚀 About Me
 
-I'm a passionate Computer Engineering student at Marmara University, actively building my skills both in academia and as a freelancer. My journey blends rigorous coursework with real-world freelance projects, giving me hands-on experience in developing robust and scalable software solutions. I thrive on solving problems using technology and am always eager to take on new challenges that stretch my capabilities. Whether it's collaborating on innovative projects or diving deep into new tech stacks, I aim to bridge theory with practical impact.
+I'm a passionate Computer Engineering student at Marmara University, actively building my skills in engineering. My journey blends rigorous coursework with real-world freelance projects, giving me hands-on experience in developing robust and scalable software solutions. I thrive on solving problems using technology and am always eager to take on new challenges that stretch my capabilities. Whether it's collaborating on innovative projects or diving deep into new tech stacks, I aim to bridge theory with practical impact.
 
 ---
 
