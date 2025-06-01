@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi there, I'm Cihangir Yaman 👋
 
-<!--
-**cihangiryaman/cihangiryaman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**🎓 Computer Engineering Student at Marmara University**  
+**💼 Freelancer**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a passionate Computer Engineering student at Marmara University, actively building my skills both in academia and as a freelancer. My journey blends rigorous coursework with real-world freelance projects, giving me hands-on experience in developing robust and scalable software solutions. I thrive on solving problems using technology and am always eager to take on new challenges that stretch my capabilities. Whether it's collaborating on innovative projects or diving deep into new tech stacks, I aim to bridge theory with practical impact.
+
+---
+
+## 🛠️ Skills & Tech
+
+- **C#**
+- **Python** (FastAPI)
+- **JavaScript**
+
+---
+
+## 🌟 Featured Projects
+
+Check out my pinned projects below for a showcase of what I'm most proud of!
+
+---
+
+## 📫 Connect with Me
+
+- [LinkedIn](https://www.linkedin.com/in/cihangir-yaman-2a7790221)
+
+---
+
+## 🏀 Fun Facts
+
+- Basketball enthusiast 🏀
+- Deeply interested in History and Sociology 📚
+
+---
+
+![Cihangir's GitHub stats](https://github-readme-stats.vercel.app/api?username=cihangiryaman&show_icons=true&theme=default)
