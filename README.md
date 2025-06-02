@@ -27,7 +27,7 @@ Check out my pinned projects below for a showcase of what I'm most proud of!
 
 ## 📫 Connect with Me
 
-- [LinkedIn](https://www.linkedin.com/in/cihangir-yaman-2a7790221)
+- [LinkedIn](https://www.linkedin.com/in/cihangir-yaman)
 
 ---
 
