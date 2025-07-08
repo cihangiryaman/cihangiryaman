@@ -5,13 +5,13 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 I'm a passionate Computer Engineering student at Marmara University, actively building my skills in engineering. My journey blends rigorous coursework with real-world freelance projects, giving me hands-on experience in developing robust and scalable software solutions. I thrive on solving problems using technology and am always eager to take on new challenges that stretch my capabilities. Whether it's collaborating on innovative projects or diving deep into new tech stacks, I aim to bridge theory with practical impact.
 
 ---
 
-## 🛠️ Skills & Tech
+## Skills & Tech
 
 - **C#**
 - **Python** (FastAPI)
@@ -19,22 +19,22 @@ I'm a passionate Computer Engineering student at Marmara University, actively bu
 
 ---
 
-## 🌟 Featured Projects
+## Featured Projects
 
 Check out my pinned projects below for a showcase of what I'm most proud of!
 
 ---
 
-## 📫 Connect with Me
+## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/cihangir-yaman)
 
 ---
 
-## 🏀 Hobbies
+## Hobbies
 
-- Basketball enthusiast 🏀
-- Deeply interested in History and Sociology 📚
+- Basketball enthusiast
+- Deeply interested in History and Sociology
 
 ---
 
