@@ -1,7 +1,7 @@
-# Hi there, I'm Cihangir Yaman 👋
+# Hi there, I'm Cihangir Yaman 
 
-**🎓 Computer Engineering Student at Marmara University**  
-**💼 Freelancer**
+** Computer Engineering Student at Marmara University**  
+** Freelancer**
 
 ---
 
