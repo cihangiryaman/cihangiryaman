@@ -15,6 +15,7 @@ I'm a passionate Computer Engineering student at Marmara University, actively bu
 
 - **C#**
 - **ASP.NET**
+- **Java**
 - **Python** (FastAPI)
 - **JavaScript**
 
