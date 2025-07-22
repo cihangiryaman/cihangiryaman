@@ -38,6 +38,3 @@ Check out my pinned projects below for a showcase of what I'm most proud of!
 - Basketball enthusiast
 - Deeply interested in History and Sociology
 
----
-
-![Cihangir's GitHub stats](https://github-readme-stats.vercel.app/api?username=cihangiryaman&show_icons=true&theme=default)
