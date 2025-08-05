@@ -35,6 +35,6 @@ Check out my pinned projects below for a showcase of what I'm most proud of!
 
 ## Hobbies
 
-- Basketball enthusiast
+- Basketball & cycling enthusiast
 - Deeply interested in History and Sociology
 
