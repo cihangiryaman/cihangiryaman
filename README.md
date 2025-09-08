@@ -18,12 +18,21 @@ I'm a passionate Computer Engineering student at Marmara University, actively bu
 - **Java**
 - **Python** (FastAPI)
 - **JavaScript**
+- **SQL**
+
+---
+
+## Languages
+
+- **Turkish (Native)**
+- **English (B2-C1)**
+- **German (A2)**
 
 ---
 
 ## Featured Projects
 
-Check out my pinned projects below for a showcase of what I'm most proud of!
+Check out my pinned projects below for a showcase of what I'm most proud of! However, projects I'm most proud of are private because customers doesn't want to make them public.
 
 ---
 
