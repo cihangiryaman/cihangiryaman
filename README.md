@@ -17,7 +17,7 @@ I'm a passionate Computer Engineering student at Marmara University, actively bu
 - **ASP.NET**
 - **Java**
 - **Python** (FastAPI)
-- **JavaScript**
+- **Javascript** (Node.js)
 - **SQL**
 
 ---
@@ -30,9 +30,10 @@ I'm a passionate Computer Engineering student at Marmara University, actively bu
 
 ---
 
-## Featured Projects
+## 📊 GitHub Statistics
 
-Check out my pinned projects below for a showcase of what I'm most proud of! However, projects I'm most proud of are private because customers doesn't want to make them public.
+[![Salman's GitHub stats](https://github-readme-stats.vercel.app/api?username=cihangiryaman&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&count_private=true)](https://github.com/cihangiryaman) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cihangiryaman&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/cihangiryaman) 
+| ----------- | ------------ |
 
 ---
 
