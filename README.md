@@ -30,13 +30,6 @@ I'm a passionate Computer Engineering student at Marmara University, actively bu
 
 ---
 
-## 📊 GitHub Statistics
-
-[![Salman's GitHub stats](https://github-readme-stats.vercel.app/api?username=cihangiryaman&show_icons=true&theme=dark&text_color=fff&border_color=79ff97&count_private=true)](https://github.com/cihangiryaman) | [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=cihangiryaman&theme=dark&text_color=fff&border_color=79ff97&layout=compact)](https://github.com/cihangiryaman) 
-| ----------- | ------------ |
-
----
-
 ## Connect with Me
 
 - [LinkedIn](https://www.linkedin.com/in/cihangir-yaman)
