@@ -13,8 +13,7 @@ I'm a passionate Computer Engineering student at Marmara University, actively bu
 
 ## Skills & Tech
 
-- **C#**
-- **ASP.NET**
+- **C#** (ASP.NET)
 - **Java**
 - **Python** (FastAPI)
 - **Javascript** (Node.js)
@@ -25,7 +24,7 @@ I'm a passionate Computer Engineering student at Marmara University, actively bu
 ## Languages
 
 - **Turkish (Native)**
-- **English (B2-C1)**
+- **English (C1)**
 - **German (A2)**
 
 ---
