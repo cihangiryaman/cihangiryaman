@@ -6,10 +6,17 @@ I'm Cihangir Yaman
 
 ### 🔭 What I'm Up To?
 
+Backend Developer at **Noronest** (Side Project)
+
+- Architecting a scalable backend from scratch using Clean Architecture with .NET 8 and Python FastAPI.
+- Implementing Microsoft Entra ID for unified authentication across diverse client applications.
+- Using Azure Cloud-native services and Docker.
+
 Founding Vice-President at **MADES (Marmara Developer Society)**  
 - Mentoring 20+ students in C# & .NET development.
-- Managing social media affairs.
-- Hosting hackathons and workshops.
+- Directing a community consisting of 200+ students.
+- Organizing hackathons, workshops and tech talks.
+
 ---
 ## My Most Confident Tech Stack
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)  ![C#](https://custom-icon-badges.demolab.com/badge/C%23-%23239120.svg?logo=cshrp&style=for-the-badge&logoColor=white)  ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)
@@ -25,7 +32,7 @@ Founding Vice-President at **MADES (Marmara Developer Society)**
 - **German (A2)**
 
 ---
-💼 Open to **Summer Erasmus Internships** (Backend, DevOps, Cloud) in 🇩🇪 🇸🇪 🇳🇱 🇫🇮.
+💼 Open to **Summer Erasmus+ Funding Secured Internships** in the fields of Backend, DevOps, Cloud in 🇩🇪 🇸🇪 🇳🇱 🇫🇮.
 ## Connect With Me
 Portfolio: https://www.cihangiryaman.com
 
